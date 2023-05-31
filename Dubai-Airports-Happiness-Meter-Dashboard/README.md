@@ -12,3 +12,6 @@ This repository showcases the dashboard design for a Facial Emotion Recognition 
 The dashboard consists of two pages, each serving a unique purpose:
 
 ### Page 1: Customer Happiness Statistics
+
+- The first page of the dashboard presents comprehensive customer happiness rate statistics, allowing Dubai Airports Staff to track and analyze customer satisfaction trends.
+- Airport Staff can view traffic concentration of customers per area in the airport, providing insights into high-traffic zones.
