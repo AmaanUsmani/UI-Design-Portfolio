@@ -8,3 +8,7 @@ This repository showcases the dashboard design for a Facial Emotion Recognition 
 - I was the main contributor responsible for the design and implementation of the dashboard's visual elements and graphical representations.
 
 ## Dashboard Overview
+
+The dashboard consists of two pages, each serving a unique purpose:
+
+### Page 1: Customer Happiness Statistics
