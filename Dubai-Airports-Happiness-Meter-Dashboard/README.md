@@ -18,3 +18,8 @@ The dashboard consists of two pages, each serving a unique purpose:
 - Time-based happiness rates for different areas are displayed through visually appealing graphical representations.
 - A calendar feature allows users to check historical statistics for any previous day.
 - Daily and monthly airport traffic can also be viewed, providing a holistic overview of customer influx.
+
+### Page 2: Emotion Heatmap and Camera Statistics
+
+- The second page features an emotion heatmap, visualizing customer emotions across different areas of the airport.
+- The heatmap color codes areas based on customer emotions, with green indicating happiness and red representing anger or disappointment.
