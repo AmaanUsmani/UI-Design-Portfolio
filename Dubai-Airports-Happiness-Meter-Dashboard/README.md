@@ -25,3 +25,7 @@ The dashboard consists of two pages, each serving a unique purpose:
 - The heatmap color codes areas based on customer emotions, with green indicating happiness and red representing anger or disappointment.
 - Staff can explore the heatmap for all areas of the airport, gaining insights into emotional patterns.
 - Additionally, this page provides individual camera statistics, including the number of faces detected, the majority emotion observed, and the average happiness percentage per camera.
+
+## Technologies Used
+
+The Dubai Airports Customer Happiness Tracking Dashboard was built using the following technologies and tools:
