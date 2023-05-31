@@ -5,3 +5,4 @@ This repository showcases the dashboard design for a Facial Emotion Recognition 
 ## Team Contribution
 
 - The dashboard design was a collaborative effort of two team members, with a primary focus on the theme, layout, and graph creation.
+- I was the main contributor responsible for the design and implementation of the dashboard's visual elements and graphical representations.
