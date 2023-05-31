@@ -15,3 +15,6 @@ The dashboard consists of two pages, each serving a unique purpose:
 
 - The first page of the dashboard presents comprehensive customer happiness rate statistics, allowing Dubai Airports Staff to track and analyze customer satisfaction trends.
 - Airport Staff can view traffic concentration of customers per area in the airport, providing insights into high-traffic zones.
+- Time-based happiness rates for different areas are displayed through visually appealing graphical representations.
+- A calendar feature allows users to check historical statistics for any previous day.
+- Daily and monthly airport traffic can also be viewed, providing a holistic overview of customer influx.
