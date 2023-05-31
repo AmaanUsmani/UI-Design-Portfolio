@@ -29,3 +29,6 @@ The dashboard consists of two pages, each serving a unique purpose:
 ## Technologies Used
 
 The Dubai Airports Customer Happiness Tracking Dashboard was built using the following technologies and tools:
+
+- Dashboard prototype: Figma
+- Graphical visualizations: www.rapidtables.com
